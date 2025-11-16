@@ -27,4 +27,3 @@ public class MainPage extends Form {
         loginButton.click();
     }
 }
-
