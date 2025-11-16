@@ -1,0 +1,5 @@
+{
+  "protocol": "http",
+  "domain": "localhost:8081/",
+  "wait": 10
+}
